@@ -20,3 +20,4 @@ out = averageLength(given=["hello   ","main",])
 
 ## Flowchart:
 
+![quiz017 flowchart](https://user-images.githubusercontent.com/112055062/197688026-7d9c4603-56c8-46c2-9cba-d51459153c44.jpg)
