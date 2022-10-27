@@ -20,7 +20,11 @@ matches4 = numberMatches(l=12345,s=123)
 
 ## Flowchart
 
+![quiz018 flowchart](https://user-images.githubusercontent.com/112055062/198269794-9d56c96b-5d27-4ada-a1da-bf66bca5be33.jpg)
+
 ## Image of the result
+
+<img width="540" alt="Quiz018 results" src="https://user-images.githubusercontent.com/112055062/198269809-721bdc36-9e4a-4720-b3f7-04dd4e4235da.png">
 
 ## HL: Create truth table
 
