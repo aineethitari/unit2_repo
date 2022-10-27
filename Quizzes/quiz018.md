@@ -11,7 +11,10 @@ def numberMatches(l:int, s:int)->int:
     out = math.ceil(out)
     print(out)
 
-time = numberMatches(l=100,s=100)
+matches1 = numberMatches(l=100,s=100)
+matches2 = numberMatches(l=250,s=110)
+matches3 = numberMatches(l=500,s=150)
+matches4 = numberMatches(l=12345,s=123)
 
 ## Flowchart
 
