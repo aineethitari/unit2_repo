@@ -4,6 +4,7 @@
 
 ## Code 
 
+```.py
 def numberMatches(l:int, s:int)->int:
     s_meter = s/100
     out = (l/s_meter) * (1/5)
@@ -15,6 +16,7 @@ matches1 = numberMatches(l=100,s=100)
 matches2 = numberMatches(l=250,s=110)
 matches3 = numberMatches(l=500,s=150)
 matches4 = numberMatches(l=12345,s=123)
+```
 
 ## Flowchart
 
