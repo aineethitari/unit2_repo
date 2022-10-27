@@ -17,4 +17,6 @@ time = numberMatches(l=100,s=100)
 
 ## Image of the result
 
-## HL
+## HL: Create truth table
+
+![quiz018 truth table](https://user-images.githubusercontent.com/112055062/198266222-13207a52-d683-4583-9913-bd94893e0a92.jpeg)
