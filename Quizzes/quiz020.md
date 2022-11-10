@@ -4,7 +4,7 @@
 
 ## Code
 
-'''.py
+```.py
 def get_truth()->str:
     title = print(f"| A | B | C |")
     C = True
@@ -20,7 +20,7 @@ def get_truth()->str:
         print(f"| {int(A)} | {int(B)} | {int(C)} |")
 
 table = get_truth()
-'''
+```
 
 ## Image of the result
 
