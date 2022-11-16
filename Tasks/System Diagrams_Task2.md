@@ -37,7 +37,7 @@ while True:
         time.sleep(3)
 ```
 
-## Video Results
+## Video Result
 
 https://drive.google.com/file/d/1rSoZcw3huYkyTRlHo4U-QOuEG0N4Gy_x/view?usp=sharing
 
@@ -90,6 +90,6 @@ if button_state == True:
         time.sleep(1)
 ```
 
-## Video of the result
+## Video Result
 
 https://drive.google.com/file/d/1L22dqk7FxSPSqz_dedatn0zpTmmuxsdO/view?usp=sharing
