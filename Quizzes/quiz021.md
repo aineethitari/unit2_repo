@@ -29,3 +29,4 @@ table = get_truth()
 
 ## Truth table and circuit
 
+![IMG_44C408DF78DF-1](https://user-images.githubusercontent.com/112055062/202183020-124e9645-22a3-4ba7-ba34-a1581c6481c7.jpeg)
