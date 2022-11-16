@@ -35,4 +35,7 @@ plt.show()
 
 <img width="650" alt="quiz023 graph and result" src="https://user-images.githubusercontent.com/112055062/202105566-f2ccd2c9-b988-4024-90fd-40323e86afeb.png">
 
+## Truth table
+
+![Quiz23 Truth table](https://user-images.githubusercontent.com/112055062/202107323-c17df393-1427-44ac-9ea3-9a707eeac946.jpeg)
 
