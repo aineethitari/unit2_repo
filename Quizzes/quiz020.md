@@ -28,3 +28,7 @@ table = get_truth()
 
 ## Truth table and circuit
 Light = S1S2+(S2+S3(notS1))S1 
+
+![Quiz 020  Truth](https://user-images.githubusercontent.com/112055062/202077290-afa34bdf-56cb-42bf-8827-d78b117de2f4.jpg)
+
+![Quiz20 Circuit](https://user-images.githubusercontent.com/112055062/202077317-256dd9b0-320a-4346-a981-867fac2c2d75.jpeg)
