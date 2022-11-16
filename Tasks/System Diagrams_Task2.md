@@ -46,4 +46,50 @@ https://drive.google.com/file/d/1rSoZcw3huYkyTRlHo4U-QOuEG0N4Gy_x/view?usp=shari
 ![System Diagrams unit 2 copy](https://user-images.githubusercontent.com/112055062/202067569-89f6049e-4ec1-4638-a40a-27c7f874edc0.jpg)
 
 ## List of Materials
+1. Breadboard 1
+2. Button 2
+3. LED 1
+4. Resistors 3
+5. Arduino UNO 1
+6. Wire 8
+8. USB Cable 1
+9. USB to USB-C adapter
 
+## Code
+
+```.py
+import pyfirmata
+from pyfirmata import Arduino
+import time
+
+board = Arduino('/dev/cu.usbserial-1420')
+print("Communication Successfully started")
+
+it = pyfirmata.util.Iterator(board)
+it.start()
+
+buttonA = board.digital[9]
+buttonA.mode = pyfirmata.INPUT
+button_state = False
+
+LED = board.digital[2]
+LED.write(0)
+while not button_state:
+    time.sleep(0.01)
+    print("waiting for the button to be pressed")
+    button_state = buttonA.read()
+
+if button_state == True:
+    print("Button was pressed ")
+    button_state = buttonA.read()
+    print("Button was pressed, blinking 5 times and then exiting")
+    for i in range(5):
+        LED.write(1)
+        time.sleep(1)
+        LED.write(0)
+        time.sleep(1)
+```
+
+## Video of the result
+
+https://drive.google.com/file/d/1L22dqk7FxSPSqz_dedatn0zpTmmuxsdO/view?usp=sharing
