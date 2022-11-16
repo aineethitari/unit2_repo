@@ -21,3 +21,7 @@ out = averageLength(given=["hello   ","main",])
 ## Flowchart:
 
 ![quiz017 flowchart](https://user-images.githubusercontent.com/112055062/197688026-7d9c4603-56c8-46c2-9cba-d51459153c44.jpg)
+
+## Truth table
+
+![IMG_542CAB776E99-1](https://user-images.githubusercontent.com/112055062/202136698-279275fc-88c2-41a5-9426-cddc52511f67.jpeg)
