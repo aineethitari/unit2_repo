@@ -24,4 +24,5 @@ out = averageLength(given=["hello   ","main",])
 
 ## Truth table
 
-![IMG_542CAB776E99-1](https://user-images.githubusercontent.com/112055062/202136698-279275fc-88c2-41a5-9426-cddc52511f67.jpeg)
+![IMG_ABC567097B62-1](https://user-images.githubusercontent.com/112055062/202136907-b7da835f-568b-4e65-84cc-e880e718cfc3.jpeg)
+
