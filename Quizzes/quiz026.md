@@ -36,4 +36,5 @@ plt.show()
 
 ## Convert color in hex to rgb
 
+![Quiz26 convert hex](https://user-images.githubusercontent.com/112055062/202842053-ede33ee9-901b-4f53-938d-d0e7391944d1.jpeg)
 
