@@ -40,3 +40,4 @@ plt.show()
 
 ## Result
 
+<img width="637" alt="Quiz030" src="https://user-images.githubusercontent.com/112055062/205202922-7d2c651f-699e-4a6b-a1eb-16b7409ae0ce.png">
