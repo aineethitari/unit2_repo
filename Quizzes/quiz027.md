@@ -43,3 +43,6 @@ plt.show()
 
 <img width="428" alt="Quiz27 graph" src="https://user-images.githubusercontent.com/112055062/208592897-2cb8c5a1-a504-49da-b246-0db1ef551a52.png">
 
+## Convert RGB color to hex
+![Quiz27 hex](https://user-images.githubusercontent.com/112055062/208597589-63fa7084-9686-4513-91b7-c1aa5e8055d0.jpeg)
+
