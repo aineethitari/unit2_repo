@@ -18,4 +18,6 @@ def count_letters(my_dict,msg) -> str:
 
 <img width="543" alt="quiz029 result2" src="https://user-images.githubusercontent.com/112055062/204425107-0f163db8-17c7-4cee-a4e5-be2a4dbb463c.png">
 
-
+## Question: How many different colors could you represent in a 6 bit computer? 
+64 Colors
+![quiz29 work](https://user-images.githubusercontent.com/112055062/208708284-6b0d74e6-d48b-4ade-b085-1336fb865589.jpeg)
