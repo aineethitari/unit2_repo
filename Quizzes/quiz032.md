@@ -3,7 +3,6 @@
 ![2022  Quizzes (11)](https://user-images.githubusercontent.com/112055062/211053823-aae3e5fb-7c04-44c9-a53c-f3a5370bd77e.jpg)
 
 ## Code 
-(Could not finish graph 3 because server was not working)
 
 ```.py
 import requests
