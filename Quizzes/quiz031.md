@@ -3,6 +3,7 @@
 ![2022  Quizzes (10)](https://user-images.githubusercontent.com/112055062/211050260-6f12a6af-38f1-42c3-a994-72cb14450c74.jpg)
 
 ## Code
+```.py
 import requests
 import matplotlib.pyplot as plt
 import numpy as np
@@ -47,6 +48,7 @@ for i in samples:
 
 plt.plot(samples,y_model_quad)
 plt.show()
+```
 
 ## Results 
 Could not get results because server was not working
