@@ -62,10 +62,6 @@ plt.plot(x_9_smth,temp_9_smth)
 plt.subplot(2,1,2) #sensor10
 plt.plot(x_10_smth,temp_10_smth)
 
-#compare two sensors and subtract the two points
-x_difference = []
-for g in range(len)
-
 plt.show()
 ```
 
